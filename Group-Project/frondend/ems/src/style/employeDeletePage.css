@@ -1,0 +1,11 @@
+.employee-detele-page{
+    height: 100vh;
+    width: 80vw;
+    font-size: 3rem;
+    color: black;
+    font-weight: bold;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}   

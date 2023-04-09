@@ -1,0 +1,33 @@
+.employee-table-container{
+
+    height: 100vh;
+    background-color: grey;
+    width: 80vw;
+    display: flex;
+    /* justify-content: center; */
+    align-items: flex-start;
+    flex-direction: column;
+    padding-top:5rem;
+    /* padding:0rem 3  rem; */
+    padding-left: 1rem;
+
+}
+
+
+.filter-option{
+    margin: 2rem 0;
+}
+
+.employeetype-label{
+    font-size: 1rem;
+    display: inline;
+}
+
+table{
+    width: 90%;
+}
+
+td{
+    padding:1rem
+}
+
